@@ -1,0 +1,71 @@
+body{
+margin: 0px;
+
+}
+header{
+background-color:green;
+padding:15px; 
+width: 100%;
+text-decoration: none;
+text-align: center;
+font-family: Comic sans Ms,Cambria;
+color:#F777d4;
+}
+
+nav{
+background-color: aqua;
+padding:20px; 
+width: 100%;
+
+
+
+}
+nav a{
+color: green;
+text-decoration: none;
+padding: 10px;
+}
+nav a:hover{
+	background-color: yellow;
+	color:red;
+}
+
+footer{
+clear: both;
+background-color: green;
+color: aqua;
+font-family: Comic Sans Ms;
+padding: 10px;
+text-align: center;
+}
+
+.hi{
+background-color: #008080;
+padding:120px;
+color: aqua;
+}
+
+article{
+text-align: center;
+padding:120px;
+background-color:#FFFACD;
+}
+
+
+.dai:hover{
+	color:green;
+	border: 10px aqua solid;
+	
+}
+
+#baby2{
+background-color: green;
+color:aqua;
+font-family: Comic Sans Ms;
+}
+
+#jadu{
+background-color: #2F4F4F;
+color:aqua;
+font-family: Comic Sans Ms;
+}
